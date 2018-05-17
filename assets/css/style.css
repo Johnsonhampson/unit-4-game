@@ -2,7 +2,7 @@ h1 {
 padding:30px;
 background-color:rgb(153, 71, 4);
 color:white;
-width:30%;
+width:60%;
 
 }
 
@@ -14,7 +14,7 @@ width:60%;
 }
 
 p, li{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 #title {
@@ -29,7 +29,7 @@ p, li{
     border-style: outset;
     padding: 5%;
     padding-right: 20px;
-    padding-bottom: 125px;
+    padding-bottom: 85px;
     width:30%;
     margin: 20px;
     
@@ -59,6 +59,6 @@ p, li{
 
 img{
     cursor: pointer;
-    height: 200px;
-    width: 200px;
+    height: 100px;
+    width: 100px;
 }
