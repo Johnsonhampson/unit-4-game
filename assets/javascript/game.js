@@ -12,7 +12,7 @@ $(document).ready(function () {
     var counter = 0;
     var crystalvalue = 0;
 
-    //gamestart 
+    //gamestart function
     function gamereset() {
         targetNumber = Math.floor(Math.random() * 100 + 19);
         $("#number").text(targetNumber);
@@ -40,7 +40,7 @@ $(document).ready(function () {
         gamereset();
     }
 
-    //crystal clicks
+    //crystal clicks for blue
     $("#blue").on("click", function () {
         counter = counter + blue;
         $("#finalvalue").text(counter);
