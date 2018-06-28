@@ -8,3 +8,5 @@ CRYSTAL GAME
 5. lose the game if your total score goes above the target number
 6. Reset crystal value at each game start
 7. Reset all values after win/lose.
+
+Enjoy! https://johnsonhampson.github.io/unit-4-game/
